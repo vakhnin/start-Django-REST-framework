@@ -2,3 +2,4 @@
 env/
 tutorial/__pycache__/
 tutorial/quickstart/__pycache__/
+db.sqlite3
